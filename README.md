@@ -1,2 +1,0 @@
-# CourseraIOS
-Desarrollo coursera - IOS
