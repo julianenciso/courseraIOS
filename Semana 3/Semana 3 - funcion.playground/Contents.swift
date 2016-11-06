@@ -3,8 +3,8 @@
 import UIKit
 
 func calcularIMC (){
-    var peso = 60.0
-    var altura = 1.76
+    let peso = 60.0
+    let altura = 1.76
     
     let imc = peso / (altura * altura)
     
